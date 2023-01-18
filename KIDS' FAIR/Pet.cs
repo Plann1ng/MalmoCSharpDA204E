@@ -7,10 +7,11 @@ public class Pet
     private int age;
     private bool isFemale = true;
 
+    public void greet() => Console.WriteLine("Greetings from MyPet class! :)\n");
+
     /*Method for reading name of the users pet*/
     public void getNameInput()
     {
-        Console.WriteLine("Greetings from MyPet class! :)\n");
         Console.WriteLine("What is the name of your pet? ");
         name = Console.ReadLine();
         /*Console.WriteLine("Fetching name -OK" + "\n-----------");*/
@@ -50,6 +51,15 @@ public class Pet
         else
             Console.WriteLine($"{name} is a goot boy");
         Console.WriteLine("\n+++++++++++++++++++++++++++++");
+    }
+
+    public void Start()
+    {
+        greet();
+        getNameInput();
+        getAgeInput();
+        getGenderinput();
+        Displayinformation();
     }
 }
 }
