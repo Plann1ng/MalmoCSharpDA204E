@@ -14,18 +14,19 @@ public class Pet
     {
         Console.WriteLine("What is the name of your pet? ");
         name = Console.ReadLine();
-        /*Console.WriteLine("Fetching name -OK" + "\n-----------");*/
     }
 
+    /*Method for reading Age of the users pet*/
     public void getAgeInput()
     {
-        Console.WriteLine($"What is {name}'s age? ")
+        Console.WriteLine($"What is {name}'s age? ");
         age = int.Parse(Console.ReadLine());
     }
 
+    /*Method for reading gender of the users pet*/
     public void getGenderinput()
     {
-        Console.WriteLine("Is your pet a female? (y/n)?")
+        Console.WriteLine("Is your pet a female? (y/n)?");
         string userAnswer = Console.ReadLine();
         if ( userAnswer == "y" || userAnswer == "Y")
         {
@@ -38,10 +39,11 @@ public class Pet
         else
         {
             Console.WriteLine("Please answer with only <y> or <n>");
-            getGenderinput
+            getGenderinput();
         }
     }
 
+    /*Display info*/
     public void Displayinformation()
     {
         Console.WriteLine("\n+++++++++++++++++++++++++++++");
@@ -50,9 +52,10 @@ public class Pet
             Console.WriteLine($"{name} is a good girl");
         else
             Console.WriteLine($"{name} is a goot boy");
-        Console.WriteLine("\n+++++++++++++++++++++++++++++");
+        Console.WriteLine("+++++++++++++++++++++++++++++");
     }
 
+    /*Display*/
     public void Start()
     {
         greet();
@@ -61,5 +64,4 @@ public class Pet
         getGenderinput();
         Displayinformation();
     }
-}
 }
