@@ -91,6 +91,12 @@ namespace ExtendedTask
             }
             }
 
+        public void getDateTime()
+        {
+            DateTime now = new DateTime();
+            Console.WriteLine(now.ToString());
+        }
+
         /*Runner*/
         public void Start()
             {
@@ -102,7 +108,8 @@ namespace ExtendedTask
                 getisAutomaticInput();
                 getCarPriceInput();
                 getDetails();
-            }
+                getDateTime();
+        }
         }
     }
 

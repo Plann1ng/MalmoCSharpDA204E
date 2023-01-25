@@ -13,3 +13,11 @@ C:\Users\Admin\OneDrive - student.lnu.se\Desktop\Github_pushes\C#Malmo\MalmoCSha
 C:\Users\Admin\OneDrive - student.lnu.se\Desktop\Github_pushes\C#Malmo\MalmoCSharpDA204E\MalmoCSharpDA204E\KIDS' FAIR\KIDS' FAIR\obj\Debug\net6.0\KIDS' FAIR.pdb
 C:\Users\Admin\OneDrive - student.lnu.se\Desktop\Github_pushes\C#Malmo\MalmoCSharpDA204E\MalmoCSharpDA204E\KIDS' FAIR\KIDS' FAIR\obj\Debug\net6.0\KIDS' FAIR.genruntimeconfig.cache
 C:\Users\Admin\OneDrive - student.lnu.se\Desktop\Github_pushes\C#Malmo\MalmoCSharpDA204E\MalmoCSharpDA204E\KIDS' FAIR\KIDS' FAIR\obj\Debug\net6.0\ref\KIDS' FAIR.dll
+C:\Users\Admin\OneDrive - student.lnu.se\Desktop\My Files\Linnaeus University\c#\MalmoCSharpDA204E\KIDS' FAIR\KIDS' FAIR\obj\Debug\net6.0\KIDS' FAIR.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - student.lnu.se\Desktop\My Files\Linnaeus University\c#\MalmoCSharpDA204E\KIDS' FAIR\KIDS' FAIR\obj\Debug\net6.0\KIDS' FAIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - student.lnu.se\Desktop\My Files\Linnaeus University\c#\MalmoCSharpDA204E\KIDS' FAIR\KIDS' FAIR\obj\Debug\net6.0\KIDS' FAIR.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - student.lnu.se\Desktop\My Files\Linnaeus University\c#\MalmoCSharpDA204E\KIDS' FAIR\KIDS' FAIR\obj\Debug\net6.0\KIDS' FAIR.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - student.lnu.se\Desktop\My Files\Linnaeus University\c#\MalmoCSharpDA204E\KIDS' FAIR\KIDS' FAIR\obj\Debug\net6.0\KIDS' FAIR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - student.lnu.se\Desktop\My Files\Linnaeus University\c#\MalmoCSharpDA204E\KIDS' FAIR\KIDS' FAIR\obj\Debug\net6.0\KIDS' FAIR.dll
+C:\Users\Admin\OneDrive - student.lnu.se\Desktop\My Files\Linnaeus University\c#\MalmoCSharpDA204E\KIDS' FAIR\KIDS' FAIR\obj\Debug\net6.0\refint\KIDS' FAIR.dll
+C:\Users\Admin\OneDrive - student.lnu.se\Desktop\My Files\Linnaeus University\c#\MalmoCSharpDA204E\KIDS' FAIR\KIDS' FAIR\obj\Debug\net6.0\KIDS' FAIR.pdb
